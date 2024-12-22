@@ -30,7 +30,6 @@ k.scene("logo", () => {
     });
   }
   beep();
-
   const start = buttons.ring_menu({
     pos: {
       x: center().x + 260,
@@ -38,8 +37,14 @@ k.scene("logo", () => {
     },
     size: 170,
     color: BLUE,
-    callback: ()=>{
-        console.log("yoyink")
+    text:{
+      font:"sans-serif",
+      fontcolor:WHITE,
+      fontsize:20,
+      text:"start"
+    },
+    callback:()=>{
+      debug.log("to be implemented")
     }
   });
   logo.stick.onCollide("ringbutton", (obj) => {
