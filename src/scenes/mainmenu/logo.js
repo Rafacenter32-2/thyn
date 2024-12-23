@@ -40,7 +40,7 @@ k.scene("logo", () => {
     text:{
       font:"sans-serif",
       fontcolor:WHITE,
-      fontsize:20,
+      fontsize:60,
       text:"start"
     },
     callback:()=>{
