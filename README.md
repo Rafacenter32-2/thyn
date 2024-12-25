@@ -20,3 +20,8 @@ Well, here it is:
 >- [ ] Final music selector
 
 <sub>_**#Made with Kaplay :D**_</sub>
+<!--
+im learning vim + vscode :P
+i mean damn
+vim + typescript? wow
+ -->
