@@ -6,8 +6,6 @@ export const k = kaplay({
     buttons: {
         left:   {
             gamepad:["lshoulder","ltrigger","west"],
-            keyboard:["space"],
-            
         },
         right:  {
             gamepad:["rshoulder","rtrigger","south"]
